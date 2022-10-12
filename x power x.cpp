@@ -2,7 +2,7 @@
 
 main_program{
 turtleSim();
-  cout << "how many sides?";
+  cout << "how many sides = ";
   int nsides;
   cin >> nsides;
   repeat(nsides){
